@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI_Artistry/static/css/main.93bc706a.css",
+    "main.js": "/AI_Artistry/static/js/main.81b00139.js",
+    "index.html": "/AI_Artistry/index.html",
+    "main.93bc706a.css.map": "/AI_Artistry/static/css/main.93bc706a.css.map",
+    "main.81b00139.js.map": "/AI_Artistry/static/js/main.81b00139.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93bc706a.css",
+    "static/js/main.81b00139.js"
+  ]
+}
